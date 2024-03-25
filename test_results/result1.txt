@@ -1,0 +1,21 @@
+Initialize the list head. Expected length: 0, Actual length: 0
+
+Inserting to list...
+Done inserting.
+
+Actual list: 
+-2147483648 -> 42 -> NULL
+
+Checking list len:
+Results, should be all 1's:
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+Checking if 42 exists:
+Results, should all be 1's:
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+
+Checking not exists:
+Results, should all be 0's:
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+Freed the list, make sure to check memory leaks

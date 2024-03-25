@@ -1,0 +1,31 @@
+Initialize the list head. Expected length: 0, Actual length: 0
+
+Inserting to list...
+Done inserting.
+
+Actual list: 
+-2147483648 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> 10 -> 11 -> 12 -> NULL
+
+Checking list len:
+Results, should be all 12's:
+12 12 12 12 12 12 
+
+Checking if half exists:
+Results, should all be 1's:
+1 1 1 1 1 1 
+
+Removing the [9] number 6 times:
+Done removing same number.
+New list len is 11, should be 11. The list: 
+-2147483648 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 10 -> 11 -> 12 -> NULL
+
+Removing half the list:
+Done removing half the list.
+New list len is 6, should be 6. The list: 
+-2147483648 -> 3 -> 5 -> 6 -> 10 -> 11 -> 12 -> NULL
+
+Checking not exists:
+Results, should all be 0's:
+0 0 0 0 0 0 
+
+Freed the list, make sure to check memory leaks

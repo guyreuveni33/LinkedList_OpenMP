@@ -1,0 +1,3 @@
+/home/oem/CLionProjects/ex3_newParallel/cmake-build-debug/CMakeFiles/ex3_newParallel.dir
+/home/oem/CLionProjects/ex3_newParallel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oem/CLionProjects/ex3_newParallel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
